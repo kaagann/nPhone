@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/web/build/static/css/main.1052ae1c.css",
+    "main.js": "/web/build/static/js/main.98978b14.js",
+    "static/media/background.png": "/web/build/static/media/background.ca7019fc8273fbfbf7b0.png",
+    "static/media/messages.png": "/web/build/static/media/messages.0a4606f54fbe8492d51d.png",
+    "static/media/bank.png": "/web/build/static/media/bank.a025ac5c2a3548391b47.png",
+    "static/media/camera.png": "/web/build/static/media/camera.8bec85932543dd04e2d2.png",
+    "static/media/gallery.png": "/web/build/static/media/gallery.5b19281a80a576c7c24b.png",
+    "static/media/valet.png": "/web/build/static/media/valet.e3c4d8e4f738acc9643a.png",
+    "static/media/settings.png": "/web/build/static/media/settings.6d27d118515ae5078f3e.png",
+    "static/media/map.png": "/web/build/static/media/map.67aa564f7bcfc7cd1d2d.png",
+    "static/media/contacts.png": "/web/build/static/media/contacts.d96be815bce13e80ff5f.png",
+    "static/media/yellowpages.png": "/web/build/static/media/yellowpages.afb5f326a357448948d6.png",
+    "static/media/twitter.png": "/web/build/static/media/twitter.46d30ab21fdda466901d.png",
+    "index.html": "/web/build/index.html",
+    "main.1052ae1c.css.map": "/web/build/static/css/main.1052ae1c.css.map",
+    "main.98978b14.js.map": "/web/build/static/js/main.98978b14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1052ae1c.css",
+    "static/js/main.98978b14.js"
+  ]
+}

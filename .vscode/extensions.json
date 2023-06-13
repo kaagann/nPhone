@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "mike-co.import-sorter",
+        "chamboug.js-auto-backticks",
+        "bradlc.vscode-tailwindcss"
+    ]
+}
