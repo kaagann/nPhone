@@ -18,7 +18,7 @@ I wanted to share the phone I made for my own server, there are not many feature
 - Map
 - Gallery
 - Job Center
-- Busniess
+- Business
 
 If you have any error you can contact me with my discord: https://discord.gg/YGey2cgjEj
 
