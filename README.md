@@ -24,7 +24,9 @@ If you have any error you can contact me with my discord: https://discord.gg/YGe
 
 # Dependencies
 
+- [qb-core](https://github.com/qbcore-framework/qb-core)
 - [qb-management](https://github.com/qbcore-framework/qb-management)
+- [oxmysql](https://github.com/overextended/oxmysql)
 
 # Screenshots
 
